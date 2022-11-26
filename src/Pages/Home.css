@@ -1,0 +1,37 @@
+img{
+  max-width: 100%;
+}
+
+.Hero{
+  background-image: url(../../public/3.png);
+  background-position: 0%;
+  background-size: cover;
+  height:400px;
+}
+
+.HeroTextContainer{
+  justify-items: center;
+  display: flex;
+}
+
+.HeroText{
+  
+  font-family:'Libre Baskerville', serif;
+  font-weight: 700;
+ 
+  padding: 5%;
+  
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: .1em;
+  font: size 3vw;
+  text-shadow: 5px 5px 3px #fff;
+
+
+}
+.SectionH{
+  font-family:'Libre Baskerville', serif;
+  font-weight: 700;
+  text-align: left;
+  padding:30px;
+}

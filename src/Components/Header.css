@@ -1,0 +1,82 @@
+/* .Header-Container{
+  top: 0px;
+  left: 0px;
+  width: 80%;
+  height:200px;
+  margin:auto;
+  overflow: hidden;
+  padding-left: 20px;
+  padding-right:50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+/*  */
+
+.Header{
+  font-family: 'Libre Baskerville', serif;
+  margin-bottom: 20px;
+  transition: 0.2s;
+  top:0;
+  position: sticky;
+  background-color: #FEFAE0;
+  overflow: hidden;
+
+}
+.Header h1{
+  font-size:xx-large;
+  font-weight: 700;
+  color: #BC6C25;
+}
+
+.HeaderRow{
+  z-index: 999;
+}
+
+.shrink{
+  height: 100px !important;
+  transition: 0.5s;
+}
+.LogoContainer{
+  height:300px;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-around;
+  display: flex;
+  flex-wrap:1;
+  transition: 0.2s;
+  margin:10px;
+  padding:10px;
+  
+}
+
+.logoimg{
+  height:200px;
+}
+
+.Links navbar-nav{
+  align-self:flex-end;
+  align-items: flex-end;
+}
+
+.Link{
+  display: flex;
+  color: #4c682d;
+}
+
+/* 
+.Logo-Text{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Link-Container{
+  margin-right: 20px;
+
+}
+
+.Link{
+  margin-right: 20px;
+} */

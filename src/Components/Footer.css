@@ -1,0 +1,30 @@
+.Footer{
+  font-family: 'Libre Baskerville', serif;
+}
+
+.FooterContainer{
+  height: 400px;
+  padding:20px;
+  margin:20px;
+  max-width:75%;
+}
+
+.Name{
+  text-align: left;
+}
+
+.IconContainer{
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.socialIcon{
+  width:70px;
+  padding:10px;
+}
+
+.Link{
+  text-align: left;
+  padding:5px;
+}

@@ -1,0 +1,17 @@
+.BlogPost{
+  background-color: #FEFAE0;;
+}
+
+.BlogPost .title{
+  font-family: 'Libre Baskerville', serif;
+  font-size: x-large;
+  text-align: center;
+  margin:20px;
+}
+
+.preview_image{
+  
+object-fit:contain;
+width: 100%;
+height: 400px;
+}

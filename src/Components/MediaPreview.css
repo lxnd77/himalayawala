@@ -1,0 +1,16 @@
+.rt{
+  height:80%;
+  font-family: 'Libre Baskerville', serif;
+  font-size: large;
+  text-align: left;
+  display:flex;
+  flex-direction: column;
+justify-content: space-between;
+}
+
+.title h1{
+  font-family: 'Libre Baskerville', serif;
+  font-size: xx-large;
+  font-weight: 700;
+  text-align: left;
+}

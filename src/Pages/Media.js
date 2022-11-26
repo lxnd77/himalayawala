@@ -1,5 +1,5 @@
 import { useAllPrismicDocumentsByType } from "@prismicio/react";
-import React, { Component } from "react";
+import React from "react";
 import { Container } from "react-bootstrap";
 import MediaPreview from "../Components/MediaPreview";
 import "./Media.css";

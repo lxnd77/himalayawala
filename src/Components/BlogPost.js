@@ -1,7 +1,7 @@
 import { PrismicRichText, usePrismicDocumentByUID } from "@prismicio/react";
 import React from "react";
 import { useParams } from "react-router-dom";
-import { Col, Container, Row } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import CustomText from "./CustomText";
 import "./BlogPost.css";
 

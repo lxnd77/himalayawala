@@ -1,7 +1,7 @@
 import { PrismicRichText, usePrismicDocumentByUID } from "@prismicio/react";
 import React from "react";
 import { useParams } from "react-router-dom";
-import { Col, Container, Row } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import "./MediaPost.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination } from "swiper";

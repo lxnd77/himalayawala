@@ -1,6 +1,6 @@
 import { useAllPrismicDocumentsByType } from "@prismicio/react";
-import React, { Component } from "react";
-import { Col, Container, Image, Row } from "react-bootstrap";
+import React from "react";
+import { Col, Container, Row } from "react-bootstrap";
 import BlogPreview from "../Components/BlogPreview";
 import MediaPreview from "../Components/MediaPreview";
 import "./Home.css";

@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import "./Header.css";
-import { Link, useLocation } from "react-router-dom";
-import Logo from "./Logo";
-import { Col, Container, Nav, Navbar, Row } from "react-bootstrap";
+import { Container, Nav, Navbar, Row } from "react-bootstrap";
 
 export class Header extends Component {
   componentDidMount() {
